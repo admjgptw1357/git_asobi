@@ -1,5 +1,5 @@
 # git_asobi
-test
+test2
 
 master
 dev
